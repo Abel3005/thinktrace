@@ -6,3 +6,10 @@ Do you have experience of absense of knowledge that you remembered?
 
 `ThinkTrace` is the collection of agent to remember your knowledges and experiences.
 So, it specially can store thinktrace of your knowledge and experiences.
+
+
+# Platform
+`ThinkTrace` uses [OpenCode](https://github.com/anomalyco/opencode) that is highly extensible and extremely customizable.
+
+
+
