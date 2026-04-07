@@ -12,6 +12,12 @@ So, it specially can store thinktrace of your knowledge and experiences.
 And Opencode plugin allow to extend OpenCode by hooking into various events and customizing beahvior
 So ThinkTrace is debeloped in form of opencode plugin
 
+## Setup
+
+1. install [opencode](https://opencode.ai/)
+2. copy and paste `.ts` file to `.opencode/plugins/`
+3. run opencode
+
 
 ## Env
 
