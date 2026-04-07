@@ -1,0 +1,33 @@
+{
+  "name": "@lion-lamb/thinktrace",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "publishConfig": {
+    "access": "public"
+  },  
+  "scripts": {
+    "build": "bun build ./index.ts --outdir ./dist"
+  },
+  "files": ["dist"],
+  "keywords": [
+    "opencode",
+    "plugin",
+    "agents",
+    "ai",
+    "llm"
+  ],
+  "author": "Daegun-Kim",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abel3005/thinktrace.git"
+  }
+}
