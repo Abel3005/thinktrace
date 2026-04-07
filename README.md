@@ -13,4 +13,6 @@ And Opencode plugin allow to extend OpenCode by hooking into various events and 
 So ThinkTrace is debeloped in form of opencode plugin
 
 
+## Env
 
+- TypeScript
